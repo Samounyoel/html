@@ -1,3 +1,7 @@
+
+![Alt Text](images/registration.png)
+
+
 Website Project with HTML and CSS
 
 This project is a simple website created using HTML and CSS, showcasing various features and animations. It includes dedicated pages for navigation, user authentication, and more.
