@@ -8,11 +8,13 @@ Files Included:
 	•	about.html: About page with detailed information.
 	•	contact.html: Contact page for user inquiries.
 	•	enter.html: Entry point for login or registration.
+
 	•	home.html: Main homepage with an overview.
 	•	login.html: Login page for user authentication.
 	•	nav.html: Navigation bar structure.
 	•	register.html: Registration page for new users.
-	•	CSS Files:
+	•	CSS Files
+
 	•	about.css: Styles for the About page.
 	•	contact.css: Styles for the Contact page.
 	•	home.css: Homepage styling.
