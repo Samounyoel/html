@@ -2,6 +2,7 @@
 ![Alt Text](images/registration.png)
 
 
+
 Website Project with HTML and CSS
 
 This project is a simple website created using HTML and CSS, showcasing various features and animations. It includes dedicated pages for navigation, user authentication, and more.
@@ -27,8 +28,16 @@ Files Included:
 	•	nav.css: Navigation bar design.
 	•	register.css: Registration page styles.
 
+
+![Alt Text](images/loading-enter.png)
+
 Key Features:
 
 	•	Interactive design.
 	•	Clean and structured code for scalability.
 	•	CSS animations for a smooth user experience.
+
+
+ ![Alt Text](images/login.png)
+![Alt Text](images/contact.png)
+
