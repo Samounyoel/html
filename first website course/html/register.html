@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="../css/register.css">
+</head>
+<body>
+    <div class="nav-log-reg">
+        <h1>Yoel samoun</h1>
+        <form action="login.html" method="get">
+        <button class="btn-normal"> Already have an account? Login here</button></form>
+    </div>
+    <div class="container-login">
+        <h1>Let's start</h1>
+        <!-- <p>Please log in for have access to the website</p> -->
+        <!-- <label for="username">Username</label> -->
+        <input type="text" name="username" id="username" value="" placeholder="Username" required>
+        <input type="email" name="email" id="email" value="" placeholder="example@gmail.com" required>
+        <input type="number" name="age" id="age" placeholder="Please type your age here" min="18" max="80">
+        <!-- <label for="password">Password</label> -->
+        <input type="password" name="password" id="password" maxlength="8" minlength="6" placeholder="Password" required>
+        
+        
+      <span>Please choose your gender</span>
+     
+      <form  class="gender" action="gender">
+        <label class="custom-radio" for="male">
+            <input class="radio" type="radio" value="man" id="male">
+            <span class="radio">I am a man</span>
+        </label>
+        
+        <label class="custom-radio" for="female">
+            <input class="radio" type="radio" value="female" id="female">
+            <span class="radio">I am a female</span>
+        </label>
+      </form>
+
+        <form action="login.html" method="get">
+        <div class="btn-animation">
+        <button class="btn" type="submit" href="./home.html">Login</button> </form>
+    </div>
+    </div>
+   
+</body>
+</html>
